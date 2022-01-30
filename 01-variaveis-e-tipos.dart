@@ -6,6 +6,9 @@ void main() {
   int idade = 21;
   print(idade);
 
+  double altura = 1.75;
+  print(altura);
+
   bool eHomem = true;
   print(eHomem);
 
